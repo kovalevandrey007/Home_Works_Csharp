@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Andy\\.nuget\\packages\\": {}
+    "/home/Andy-PC/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HomeWorks\\Task2\\Task2.csproj",
+      "projectUniqueName": "/home/Andy-PC/Home_Works_Csharp/Task2/Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "D:\\HomeWorks\\Task2\\Task2.csproj",
-      "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-      "outputPath": "D:\\HomeWorks\\Task2\\obj\\",
+      "projectPath": "/home/Andy-PC/Home_Works_Csharp/Task2/Task2.csproj",
+      "packagesPath": "/home/Andy-PC/.nuget/packages/",
+      "outputPath": "/home/Andy-PC/Home_Works_Csharp/Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/Andy-PC/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
