@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeWorks\\Task4\\Task4.csproj": {}
+    "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "D:\\HomeWorks\\Task4\\Task4.csproj": {
+    "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeWorks\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "D:\\HomeWorks\\Task4\\Task4.csproj",
+        "projectPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeWorks\\Task4\\obj\\",
+        "outputPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config"

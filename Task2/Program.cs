@@ -4,11 +4,11 @@
 //a = -9 b = -3 -> max = -3
 
 
-double a, b;
+int a, b;
 Console.WriteLine("Введите первое число: ");
-a = Double.Parse(Console.ReadLine());
+a = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число: ");
-b = Double.Parse(Console.ReadLine());
+b = int.Parse(Console.ReadLine());
 
 if(a>b)
     Console.WriteLine("{0} - max, {1} - min", a, b);
