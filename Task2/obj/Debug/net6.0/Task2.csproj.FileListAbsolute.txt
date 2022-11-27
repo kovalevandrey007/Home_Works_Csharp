@@ -1,0 +1,78 @@
+<<<<<<< HEAD
+D:\HomeWorks\Task2\bin\Debug\net6.0\Task2.exe
+D:\HomeWorks\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\HomeWorks\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\HomeWorks\Task2\bin\Debug\net6.0\Task2.dll
+D:\HomeWorks\Task2\bin\Debug\net6.0\Task2.pdb
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.dll
+D:\HomeWorks\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.pdb
+D:\HomeWorks\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\HomeWorks\Task2\obj\Debug\net6.0\ref\Task2.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\bin\Debug\net6.0\Task2.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\bin\Debug\net6.0\Task2.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\bin\Debug\net6.0\Task2.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task2\obj\Debug\net6.0\ref\Task2.dll
+=======
+D:/HomeWorks/Task2/bin/Debug/net6.0/Task2.exe
+D:/HomeWorks/Task2/bin/Debug/net6.0/Task2.deps.json
+D:/HomeWorks/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+D:/HomeWorks/Task2/bin/Debug/net6.0/Task2.dll
+D:/HomeWorks/Task2/bin/Debug/net6.0/Task2.pdb
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.dll
+D:/HomeWorks/Task2/obj/Debug/net6.0/refint/Task2.dll
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.pdb
+D:/HomeWorks/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+D:/HomeWorks/Task2/obj/Debug/net6.0/ref/Task2.dll
+/home/Andy-PC/Home_Works_Csharp/Task2/bin/Debug/net6.0/Task2
+/home/Andy-PC/Home_Works_Csharp/Task2/bin/Debug/net6.0/Task2.deps.json
+/home/Andy-PC/Home_Works_Csharp/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/home/Andy-PC/Home_Works_Csharp/Task2/bin/Debug/net6.0/Task2.dll
+/home/Andy-PC/Home_Works_Csharp/Task2/bin/Debug/net6.0/Task2.pdb
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.dll
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/refint/Task2.dll
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.pdb
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/home/Andy-PC/Home_Works_Csharp/Task2/obj/Debug/net6.0/ref/Task2.dll
+>>>>>>> 43945f8f43706e1bbc579179098b986a7d1f2fb4
+E:\Home_Works_Csharp\Task2\bin\Debug\net6.0\Task2.exe
+E:\Home_Works_Csharp\Task2\bin\Debug\net6.0\Task2.deps.json
+E:\Home_Works_Csharp\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+E:\Home_Works_Csharp\Task2\bin\Debug\net6.0\Task2.dll
+E:\Home_Works_Csharp\Task2\bin\Debug\net6.0\Task2.pdb
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.dll
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\refint\Task2.dll
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.pdb
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+E:\Home_Works_Csharp\Task2\obj\Debug\net6.0\ref\Task2.dll
