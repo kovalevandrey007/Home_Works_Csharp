@@ -1,0 +1,15 @@
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\bin\Debug\net6.0\Task6.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\bin\Debug\net6.0\Task6.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\bin\Debug\net6.0\Task6.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\bin\Debug\net6.0\Task6.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\refint\Task6.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task6\obj\Debug\net6.0\ref\Task6.dll

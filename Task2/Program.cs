@@ -11,6 +11,7 @@ Console.WriteLine("Введите второе число: ");
 b = int.Parse(Console.ReadLine());
 
 if(a>b)
-    Console.WriteLine("{0} - max, {1} - min", a, b);
-else
-    Console.WriteLine("{0} - max, {1} - min", b, a);
+    Console.WriteLine($"max={a}, min={b}");
+ else
+      Console.WriteLine($"max={b}, min={a}");
+   

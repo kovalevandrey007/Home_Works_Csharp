@@ -1,8 +1,8 @@
-﻿// Задача 4: Напишите программу, которая принимает на вход 
-// три числа и выдаёт максимальное из этих чисел.
-//2, 3, 7 -> 7
-//44, 5, 78 -> 78
-//22, 3, 9 -> 22
+﻿/* Задача 4: Напишите программу, которая принимает на вход 
+три числа и выдаёт максимальное из этих чисел.
+2, 3, 7 -> 7
+44, 5, 78 -> 78
+22, 3, 9 -> 22*/
 
 int a, b, c;
 Console.WriteLine("Введите первое число: ");
@@ -13,12 +13,11 @@ Console.WriteLine("Введите третье число: ");
 c = int.Parse(Console.ReadLine());
 
 if(a>b && a>c)
-       { Console.Write("max=");
-        Console.WriteLine(a);}
+       Console. WriteLine ($"max={a}");
+       
     else 
     if (b>a && b>c)
-          { Console.Write("max=");
-            Console.WriteLine(b);}
+          Console. WriteLine ($"max={b}");
+           
   else
-       {Console.Write("max=");
-        Console.WriteLine(c);}
+      Console. WriteLine ($"max={c}");
