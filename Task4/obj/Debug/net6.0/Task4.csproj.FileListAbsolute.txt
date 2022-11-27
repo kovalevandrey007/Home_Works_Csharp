@@ -13,3 +13,11 @@ D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task4\obj\Debug\
 D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task4\obj\Debug\net6.0\Task4.pdb
 D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
 D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task4\obj\Debug\net6.0\ref\Task4.dll
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.dll
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\Home_Works_Csharp\Task4\obj\Debug\net6.0\Task4.pdb

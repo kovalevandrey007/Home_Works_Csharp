@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task6\\Task6.csproj",
+      "projectUniqueName": "E:\\Home_Works_Csharp\\Task6\\Task6.csproj",
       "projectName": "Task6",
-      "projectPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task6\\Task6.csproj",
+      "projectPath": "E:\\Home_Works_Csharp\\Task6\\Task6.csproj",
       "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task6\\obj\\",
+      "outputPath": "E:\\Home_Works_Csharp\\Task6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config"

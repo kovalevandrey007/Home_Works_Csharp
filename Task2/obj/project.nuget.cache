@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OE8JpA84VFmOWjGFHgw4XUtuy0EOZDYl++nuQ91jt5KPfDEVQGLN+A88WvKf4hIMlreypXm9p3JufSI1aAPcOg==",
+  "dgSpecHash": "V23FhgciY3tA3E9S+KAgqpIyIX6x9Ot5rUpJjFUlQxn4N1A8bIu8OG9cCZaQbtxNO+2pr7J0VQ7NekItRZHN0A==",
   "success": true,
-  "projectFilePath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task2\\Task2.csproj",
+  "projectFilePath": "E:\\Home_Works_Csharp\\Task2\\Task2.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
