@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task2\\Task2.csproj": {}
   },
   "projects": {
@@ -13,22 +12,9 @@
         "projectPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
         "outputPath": "D:\\GIT repozitory from kovalevandrey007 in GitHub.com\\HomeWorks\\Task2\\obj\\",
-=======
-    "/home/Andy-PC/Home_Works_Csharp/Task2/Task2.csproj": {}
-  },
-  "projects": {
-    "/home/Andy-PC/Home_Works_Csharp/Task2/Task2.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/Andy-PC/Home_Works_Csharp/Task2/Task2.csproj",
-        "projectName": "Task2",
-        "projectPath": "/home/Andy-PC/Home_Works_Csharp/Task2/Task2.csproj",
-        "packagesPath": "/home/Andy-PC/.nuget/packages/",
-        "outputPath": "/home/Andy-PC/Home_Works_Csharp/Task2/obj/",
->>>>>>> 43945f8f43706e1bbc579179098b986a7d1f2fb4
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/Andy-PC/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -67,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
