@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Task8
+<<<<<<< HEAD
 build_property.ProjectDir = D:\GIT repozitory from kovalevandrey007 in GitHub.com\HomeWorks\Task8\
+=======
+build_property.ProjectDir = /home/Andy-PC/Home_Works_Csharp/Task8/
+>>>>>>> 43945f8f43706e1bbc579179098b986a7d1f2fb4
